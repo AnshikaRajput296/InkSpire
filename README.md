@@ -132,68 +132,13 @@ The system is designed using **HTML, CSS, JavaScript, PHP, and MySQL**, combinin
 | Comments        | Add/Delete/Approve     | User engagement         |
 | Admin Dashboard | User & Content Control | Platform management     |
 
----
-
-## How to Run
-
-### 1. Clone Repository
-
-```bash
-git clone [repository-link]
-cd inkspire
-```
-
-### 2. Setup Server Environment
-
-Install:
-
-* XAMPP or WAMP
-* PHP
-* MySQL
-
-### 3. Database Setup
-
-* Open **phpMyAdmin**
-* Create database:
-
-```sql
-CREATE DATABASE inkspire;
-```
-
-* Import SQL file into database
-
-### 4. Configure Project
-
-Move project folder to:
-
-```bash
-htdocs/
-```
-
-### 5. Run Application
-
-Start:
-
-* Apache server
-* MySQL server
-
-Open:
-
-```bash
-http://localhost/inkspire
-```
-
----
-
 ## Technologies Used
 
-* Python *(optional for analytics if added later)*
 * **HTML5**
 * **CSS3**
 * **JavaScript**
 * **PHP**
 * **MySQL**
-* **Bootstrap** *(if used)*
 
 ---
 
